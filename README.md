@@ -1,0 +1,2 @@
+# minimap
+Generic minimap visualizer
